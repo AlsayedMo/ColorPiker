@@ -1,0 +1,11 @@
+@use "./abstracts/colors.scss";
+
+body{
+    min-height: 100vh;
+    padding: 4rem;
+    background: linear-gradient(#863A6F , #ffadbc);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Courier New', Courier, monospace;
+}
